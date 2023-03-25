@@ -1,4 +1,4 @@
-# Colab_for_Alpaca_LoRA
+# Colab for Alpaca LoRA
 If you're looking to fine-tune a ChatGPT-level model but lack access to a GPU, Google Colab may be a useful solution to consider.
 
 With a Google Colab Pro account, you can access a single 40GB A100 GPU ($10 for approximately 7.5 hours) or Tesla T4 GPU ($10 for approximately 50 hours), and sometimes these resources are available for free.
